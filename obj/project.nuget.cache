@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "sw4HYw/HaSdGy7wawZIRq+a0XmABTDe50nD1PfnX2wG8hG+eobrbVXXb9OLgPVjPmjai9uKyngZX3Upblk+0/w==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\jesus\\Desktop\\.Net Projects\\DependencyInjectionDemoApp\\DependencyInjectionDemo\\DependencyInjectionDemo.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.AspNetCore.App.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.NETCore.App.Host.win-x64"
+    }
+  ]
+}
